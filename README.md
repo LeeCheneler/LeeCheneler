@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hey, I'm Lee
 
-<!--
-**LeeCheneler/LeeCheneler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Principal engineer building fullstack TypeScript applications.
 
-Here are some ideas to get you started:
+## What I work with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** TypeScript, JavaScript
+- **Frontend:** React, Next.js
+- **Backend:** Node.js, Deno
+- **Infrastructure:** AWS, Terraform
+- **Tools:** Docker, GitHub Actions
+
+## Current interests
+
+- AI-assisted development workflows
+- Developer experience and tooling
+- Building teams that ship quality software
+
+## Projects
+
+- [Mage](https://github.com/deno-mage/app) - Deno web server
+- [Dotfiles](https://github.com/leecheneler/dotfiles) - My machine setup
+
+---
+
+_I lead teams and write code. Sometimes both at once._
