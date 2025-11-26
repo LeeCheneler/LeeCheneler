@@ -1,6 +1,6 @@
-# Hey, I'm Lee
+# Hey, I'm Lee 👋
 
-Principal engineer building fullstack TypeScript applications.
+Principal engineer based in the UK, building fullstack TypeScript applications.
 
 ## What I work with
 
@@ -10,16 +10,20 @@ Principal engineer building fullstack TypeScript applications.
 - **Infrastructure:** AWS, Terraform
 - **Tools:** Docker, GitHub Actions
 
+## Projects
+
+- [Mage](https://github.com/deno-mage/app) - My Deno web server
+- [Dotfiles](https://github.com/leecheneler/dotfiles) - My machine setup
+
 ## Current interests
 
 - AI-assisted development workflows
 - Developer experience and tooling
 - Building teams that ship quality software
 
-## Projects
+## Outside of code
 
-- [Mage](https://github.com/deno-mage/app) - Deno web server
-- [Dotfiles](https://github.com/leecheneler/dotfiles) - My machine setup
+When I'm not at a keyboard, you'll find me gaming, playing squash or crashing on the sofa. 
 
 ---
 
